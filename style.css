@@ -1,0 +1,185 @@
+*{
+    font-family: 'Poppins';
+}
+#image
+{
+    margin-top: 40px;
+    margin-left: 60px;
+    width: 60px;
+}
+
+#creative
+{
+    position: relative;
+    color:#D9E6EC;
+    display: block;
+    font-size: 20px;
+    top: 8px;
+    left: -5px;
+}
+
+#marketing
+{
+    position: relative;
+    color: #EDB720;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: -20px;
+    left: 13px;
+}
+
+hr
+{
+   border-bottom: 1.5px solid #EDB720;
+   width: 50px;
+   display: inline-block;
+    position: relative;
+    top: 22px;
+    left: -82px;
+}
+
+#navbar
+{
+    position: absolute;
+    display: inline-block;
+    width: 700px;
+    top: 60px;
+    right: -20px;
+}
+
+#services
+{
+    margin-left: -60px;
+}
+
+#navbar span
+{
+    padding: 5px 25px;
+    font-size: 18px;
+    color: #E6F4F9;
+}
+
+#heading
+{
+    display: inline-block;
+    position: relative;
+    top: -10px;
+    margin-left: 8px;
+}
+
+#search span
+{
+color: #434941;
+}
+
+#search
+{
+    background-color: #FCC220;
+    display: inline;
+    padding: 9px 12px;
+    border-radius: 100%;
+    outline: 8px solid #72673A;
+    margin-left: 40px;
+}
+
+#drop img
+{
+    width: 10px;
+    margin-left: -45px;
+}
+
+#subscribe
+{
+    color: #FEC11E;
+    font-size: 60px;
+    font-weight: bold !important;
+}
+
+#newsletter
+{
+    color: #FFFFFF;
+    font-size: 60px;
+    margin-top: -80px;
+    font-weight: bold !important;
+}
+
+#content
+{
+   width: 600px;
+}
+
+.blue
+{
+    color: #909DAA;
+    margin-top: -15px;
+    font-size: 13px;
+}
+
+#content input
+{
+    width: 280px;
+    padding: 8px;
+    border-radius: 20px;
+    border: none;
+    background-color: white;
+    display: block;
+    padding-left: 20px;
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+::placeholder
+{
+    color: #878787;
+}
+
+#content button
+{
+    background-color: #FCC11F;
+    color: #3A3C3E;
+    margin-top: 20px;
+    padding: 8px 28px;
+    border: none;
+    border-radius: 20px;
+    font-size: 15px;
+
+}
+
+#content button img
+{
+    width: 7px;
+}
+
+#content
+{
+    margin-left: 75px;
+}
+
+#para1
+{
+    margin-top: -50px;
+}
+
+#para3
+{
+    margin-bottom: 25px;
+}
+
+#content input[type='email']
+{
+    margin-top: 20px;
+}
+
+#right img
+{
+    width: 650px;
+    position: absolute;
+    top: 120px;
+    right: 70px;
+    background: #1F354A;
+}
+
+#right
+{
+    margin-bottom: 20px;
+}
